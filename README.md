@@ -17,7 +17,7 @@ A self-hosted, production-grade IT Service Desk — GLPI, containerized with Doc
   - Urgent: 1 hour · High: 4 hours · Medium: 24 hours · Low: 72 hours
 
 ## Status
-Infrastructure is fully configured and operational. Currently working Tier 1 (L1 - Help Desk) tickets.
+Infrastructure fully configured and operational — Docker deployment, ITIL categories, L1/L2/L3 groups, and priority-based SLA automation are all live. Ticket resolution work begins now, starting with Tier 1 (L1 - Help Desk).
 
 ## Running it yourself
 \`\`\`bash
